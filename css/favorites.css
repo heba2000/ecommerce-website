@@ -1,0 +1,17 @@
+
+.heading{
+    font-weight: 600 ;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 2rem;
+}
+
+.card-title{
+  font-weight: 400;
+}
+.card-body h6{
+    font-family: 'Abril Fatface', cursive;
+    font-weight: 600 ;
+  }
+.favorite-item img{
+   width: 100px; 
+} 

@@ -1,0 +1,243 @@
+<html>
+    <title>Home page</title>
+    <head>
+        
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/index-style.css">
+        <link rel="stylesheet" type="text/css" href="css/all.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;600;700;800&display=swap" rel="stylesheet"> 
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat:wght@200;300;600;700;800&display=swap" rel="stylesheet"> 
+    
+    </head>
+   <body> 
+    <nav class="navbar navbar-light fixed-top" id="my-nav">
+        <div class="container d-flex align-items-center p-1">
+          <a class="navbar-brand">Welcome <span class="name"> Heba </span></a>
+          <form class="d-flex my-2">
+
+            <button class="btn favorite-icon favorite-items-nubmer" data-notify="0">
+                <a href="favorites.html" target="_blank"> <i class="fas fa-heart fa-lg"></i> </a>
+            </button>
+
+            <button class="btn cart-icon cart-items-nubmer"  data-notify="0">
+               <a href="cart.html" target="_blank" class=""> <i class="fas fa-shopping-cart fa-lg"></i>  </a>
+            </button>
+            <button class="btn" >
+                <a href="" target="_blank" onclick="logout()"> <i class="fas fa-sign-out-alt fa-lg"></i> </a>
+             </button>
+
+          </form>
+        </div>
+      </nav>
+
+
+<!-- slide 1 -->
+<section id="home-page" class="home home1 slide-active"> 
+    <div class="container d-flex align-items-center">
+        <div class="row w-100">  
+            <div class="col-md-12">
+                <div class="home-content p-5 ">
+                    <h4 id="heading"> 2021 Collection </h4>
+                    <h1> Jackets & coats </h1>
+                </div>
+            </div>          
+           
+            
+        <div class="col-md-12">
+            <div class="arrows  d-flex justify-content-between align-items-center">
+                <div class="arr-left">
+                        <i class="fas fa-angle-left fa-lg" id="arrow-prev" onclick="plusDivs(-1)"></i> 
+                </div>
+
+                <div class="arr-right">
+                        <i class="fas fa-angle-right fa-lg" id="arrow-next" onclick="plusDivs(1)"></i> 
+                </div>
+            </div>
+        </div>
+
+
+        </div>
+
+
+    </div>
+
+
+</section>
+
+<!-- slide 2  -->
+<section id="home-page" class="home home2"> 
+    <div class="container d-flex align-items-center">
+        <div class="row w-100">  
+            <div class="col-md-12">
+                <div class="home-content p-5 ">
+                    <h4> 2021 Collection </h4>
+                    <h1> Jackets & coats </h1>
+                </div>
+            </div>          
+           
+            
+        <div class="col-md-12">
+            <div class="arrows  d-flex justify-content-between align-items-center">
+                <div class="arr-left">
+                        <i class="fas fa-angle-left fa-lg" id="arrow-prev" onclick="plusDivs(-1)"></i> 
+                </div>
+
+                <div class="arr-right">
+                        <i class="fas fa-angle-right fa-lg" id="arrow-next" onclick="plusDivs(1)"></i> 
+                </div>
+            </div>
+        </div>
+
+
+        </div>
+
+
+    </div>
+
+</section>
+    
+<!-- slide 3 -->
+<section id="home-page" class="home home3"> 
+    <div class="container d-flex align-items-center">
+        <div class="row w-100">  
+            <div class="col-md-12">
+                <div class="home-content p-5 ">
+                    <h4> 2021 Collection </h4>
+                    <h1> Jackets & coats </h1>
+                </div>
+            </div>          
+           
+            
+        <div class="col-md-12">
+            <div class="arrows  d-flex justify-content-between align-items-center">
+                <div class="arr-left">
+                        <i class="fas fa-angle-left fa-lg" id="arrow-prev"  onclick="plusDivs(-1)"></i> 
+                </div>
+
+                <div class="arr-right">
+                        <i class="fas fa-angle-right fa-lg" id="arrow-next" onclick="plusDivs(1)"></i> 
+                </div>
+            </div>
+        </div>
+
+
+        </div>
+
+
+    </div>
+
+
+
+</section>
+  
+<section id="products" class="py-5"> 
+<div class="container">
+    <div class="products-heading p-2">
+        <h1> Our Products </h1>
+    </div>
+
+
+    <div class="row"> 
+        <div class="col-md-12"> 
+            <div class="products-nav p-1 d-flex justify-content-between">
+                <ul class="nav">
+                    <li class="nav-item">
+                    <a class="nav-link active" id="all-products" aria-current="page" onclick="displayProducts(productsApi)">All</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" id="men-products">Men</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link"  id="women-products">Women</a>
+                    </li>
+
+                </ul>
+
+             
+            <div class="d-flex justify-content-end" > 
+                <select class="form-select w-25 mx-2" aria-label="Default select example">
+                    <option  class="category-option" selected > All </option>
+                    <option  class="category-option" > Jackets </option>
+                    <option class="category-option" > Tshirts </option>
+                    <option  class="category-option"> Accsessories </option>
+                    <option  class="category-option"> Shirts </option>
+                </select>
+           
+
+                <select class="form-select w-25 mx-2" aria-label="Default select example">
+                    <option  class="price-option" selected >0 - 70 </option>
+                    <option class="price-option" value="1">0 - 30 </option>
+                    <option  class="price-option" value="2">30 - 50</option>
+                    <option  class="price-option" value="3">50 - 70</option>
+                </select>
+           
+                <input class="form-control w-50" id="search-btn" type="search" placeholder="Search Product here" aria-label="Search">
+    
+
+            </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-12 ">
+            <div class="row" id="row-append">
+
+
+            </div>
+        </div>
+
+    <div class="col-md-12 d-flex justify-content-center mb-5">
+        <button class="btn btn-favorite px-5" id="show-more">Show More</button>
+    </div>
+
+
+</div>
+
+
+</div>
+
+</section>
+
+
+<button class="btn btn-favorite" id="scroll-btn">
+    <i class="far fa-arrow-alt-circle-up"></i>
+</button>
+
+
+<script src="js/home.js"></script>
+<script src="js/bootstrap.bundle.min.js"></script>
+
+<script>
+
+// var slides = document.getElementsByClassName("home");
+// var currentIndex = 0;
+// var slidesArray = (slides);
+// var currentSlide;
+
+// arrowNext.addEventListener("click", function nextSlide(e){
+//     currentSlide = document.getElementsByClassName("slide-active")[0];
+//     currentSlide.classList.remove("slide-active")
+//     currentIndex++;
+//     if(currentIndex == slidesArray.length)    
+//     {
+//          currentIndex = 0           
+//     } 
+//     currentSlide = slidesArray[currentIndex];
+//     slidesArray[currentIndex].classList.add("slide-active");
+//     console.log(currentSlide);
+   
+// });
+
+// var arrowNext = document.getElementById("arrow-next")
+// var arrowPrev = document.getElementById("arrow-prev")
+
+
+</script>
+
+    </body>
+</html>

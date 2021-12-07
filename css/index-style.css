@@ -1,0 +1,163 @@
+body{
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.navbar-brand{
+   font-size:1.5em; 
+}
+.navbar .name
+{
+   font-weight: 600; 
+   color: #717fe0;
+}
+
+.navbar a{
+    color:black ;
+    text-decoration: none; 
+ }
+ .navbar a:visited{
+    color:black ;
+ }
+.navbar i:hover{
+   color:#717fe0 ; 
+}
+
+.navbar btn:active
+{
+    border: none;
+    outline: 4px;
+    box-shadow: 0px 0px 2px 4px black !important;
+
+}
+
+.cart-icon{
+position: relative;
+}
+.cart-items-nubmer::after
+{
+content: attr(data-notify);
+position: absolute;
+min-width: 15px;
+height: 18px;
+background-color: 717fe0;
+border-radius: 2px;
+font-weight: 600;
+font-size: 12px;
+color: #fff;
+top: -4px;
+text-align: center;
+right: 2px;
+}
+
+
+.favorite-icon{
+position: relative;
+}
+.favorite-items-nubmer::after
+{
+content: attr(data-notify);
+position: absolute;
+min-width: 15px;
+height: 18px;
+background-color: 717fe0;
+border-radius: 2px;
+font-weight: 600;
+font-size: 12px;
+color: #fff;
+top: -4px;
+text-align: center;
+right: 2px;
+}
+
+/* HOME */
+
+.home {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   height: 100vh; 
+   display: none;
+}
+
+.home1 {
+    background-image: url(../Images/slide-01.jpg); 
+}
+.home2 {
+    background-image: url(../Images/slide-02.jpg);    
+}
+.home3 {
+    background-image: url(../Images/slide-03.jpg);    
+}
+
+.slide-active{
+    display: block;
+}
+.container{
+    height: 100%;
+}
+
+.home .container h1{
+    font-family: 'Abril Fatface', cursive;
+    font-weight: 600;
+    font-size: 4.5rem;
+}
+
+.products-heading h1{
+    font-weight: 700; 
+}
+#products input{
+    font-size: 15px;
+    font-weight: 500;
+    border-width: 2px;
+}
+
+#products input:focus {
+    box-shadow: 0px 0px 2px 4px #717fe0;
+    border-color: #717fe0;
+}
+.form-select{
+   font-size: 0.8rem !important; 
+}
+.nav-link {
+    font-weight: 400;
+    color: black;
+    font-size: 15px;
+}
+.nav-item .active{
+    font-weight: 600;
+    color:#717fe0 ;
+    border-bottom: 2px solid #717fe0;
+}
+
+.product-details h6{
+    font-weight: 600;
+}
+.btn-cart{
+    color:#fff;
+    background-color: black;
+}
+.btn-favorite {
+    color:#fff;
+    background-color: #717fe0;
+}
+.btn-cart:hover {
+    color:#fff;
+}
+#show-more{
+    display: none;
+}
+#scroll-btn{
+    position:fixed;
+    right: 50px;
+    bottom: 50px;
+    color: #fff;
+    display: none;
+}
+.product-item{
+   overflow: hidden; 
+}
+.item-img img:hover {
+transform: scale(1.2,1.2);
+transition: all 0.8s;
+transition-timing-function: ease-in-out;
+}

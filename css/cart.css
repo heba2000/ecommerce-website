@@ -1,0 +1,46 @@
+body{
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+
+.cart-page h4{
+    font-weight: 600 ;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 2rem;
+}
+
+.table thead tr th{
+   font-size:15px; 
+   font-weight: 800;
+   color:rgba(0, 0,0, 0.5)
+}
+.table tbody tr td{
+    font-size:18px; 
+    font-weight: 600;
+    color:rgba(0, 0,0, 0.8);
+    vertical-align:middle;
+ }
+.img-table{
+    width: 70px;
+}
+table .btn , table .btn:hover , table .btn:visited{
+background-color: #717fe0;
+color: #fff;
+border: none;
+font-weight: 800;
+}
+
+#total-items h5 , #total-price h5
+{
+float: left;
+font-family: 'Abril Fatface', cursive;
+font-weight: 200 ;
+
+}
+#total-items .items ,  #total-price #price
+{
+float: right;
+}
+.clear{
+    clear: both;
+}
