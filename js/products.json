@@ -2,14 +2,14 @@
 "All" :[
     {
         "pName" : "Basic white tshirt",
-        "pImg" :"/Images/products/(1).jpg", 
+        "pImg" :"./Images/products/(1).jpg", 
         "pPrice" : 20 ,
         "pCategory" : "tshirts" 
     
     },
     {
         "pName" : " White Shirt",
-        "pImg" :"/Images/products/(2).jpg", 
+        "pImg" :"./Images/products/(2).jpg", 
         "pPrice" : 15 ,
         "pCategory" : "shirts" 
     
