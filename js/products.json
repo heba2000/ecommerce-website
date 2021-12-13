@@ -16,119 +16,119 @@
     },
     {
         "pName" : "Blue Shirt",
-        "pImg" :"/Images/products/(3).jpg", 
+        "pImg" :"./Images/products/(3).jpg", 
         "pPrice" : 25 ,
         "pCategory" : "shirts" 
     
     },
     {
         "pName" : "Brown Long Coat",
-        "pImg" :"/Images/products/(4).jpg", 
+        "pImg" :"./Images/products/(4).jpg", 
         "pPrice" : 45 ,
         "pCategory" : "Jackets" 
     
     },
     {
         "pName" : "Grey Denim Shirt",
-        "pImg" :"/Images/products/(5).jpg", 
+        "pImg" :"./Images/products/(5).jpg", 
         "pPrice" : 35 ,
         "pCategory" : "shirts" 
     
     },
     {
         "pName" : "Black Watch",
-        "pImg" :"/Images/products/(6).jpg", 
+        "pImg" :"./Images/products/(6).jpg", 
         "pPrice" : 30 ,
         "pCategory" : "Accsessories" 
     
     },
     {
         "pName" : "Dark brown Blazer",
-        "pImg" :"/Images/products/(7).jpg", 
+        "pImg" :"./Images/products/(7).jpg", 
         "pPrice" : 30 ,
         "pCategory" : "Jackets" 
     
     },
     {
         "pName" : "Cactus Tshirt",
-        "pImg" :"/Images/products/(8).jpg", 
+        "pImg" :"./Images/products/(8).jpg", 
         "pPrice" : 25 ,
         "pCategory" : "tshirts" 
     
     },
     {
         "pName" : "Black basic tshirt",
-        "pImg" :"/Images/products/(9).jpg", 
+        "pImg" :"./Images/products/(9).jpg", 
         "pPrice" : 20 ,
         "pCategory" : "tshirts" 
     
     },
     {
         "pName" : "Light Blue Shirt",
-        "pImg" :"/Images/products/(10).jpg", 
+        "pImg" :"./Images/products/(10).jpg", 
         "pPrice" : 35 ,
         "pCategory" : "shirts" 
     
     },
     {
         "pName" : "Brown Belt",
-        "pImg" :"/Images/products/(11).jpg", 
+        "pImg" :"./Images/products/(11).jpg", 
         "pPrice" : 20 ,
         "pCategory" : "Accsessories" 
     
     },
     {
         "pName" : "white tshirt",
-        "pImg" :"/Images/products/(12).jpg", 
+        "pImg" :"./Images/products/(12).jpg", 
         "pPrice" : 30 ,
         "pCategory" : "tshirts" 
     
     },
     {
         "pName" : "flower black tshirt",
-        "pImg" :"/Images/products/(13).jpg", 
+        "pImg" :"./Images/products/(13).jpg", 
         "pPrice" : 15 ,
         "pCategory" : "tshirts" 
     
     },
     {
         "pName" : "Black Watch",
-        "pImg" :"/Images/products/(14).jpg", 
+        "pImg" :"./Images/products/(14).jpg", 
         "pPrice" : 15 ,
         "pCategory" : "Accsessories" 
     
     },
     {
         "pName" : "Gray tshirt",
-        "pImg" :"/Images/products/(15).jpg", 
+        "pImg" :"./Images/products/(15).jpg", 
         "pPrice" : 15 ,
         "pCategory" : "tshirts" 
     
     },
     {
         "pName" : "white training set",
-        "pImg" :"/Images/products/(16).jpg", 
+        "pImg" :"./Images/products/(16).jpg", 
         "pPrice" : 55 ,
         "pCategory" : "Jackets" 
     
     },
     {
         "pName" : "Red tshirt",
-        "pImg" :"/Images/products/(17).jpg", 
+        "pImg" :"./Images/products/(17).jpg", 
         "pPrice" : 25 ,
         "pCategory" : "tshirts" 
     
     },
     {
         "pName" : "Red Pulllover",
-        "pImg" :"/Images/products/(18).jpg", 
+        "pImg" :"./Images/products/(18).jpg", 
         "pPrice" : 45 ,
         "pCategory" : "Jackets" 
     
     },
     {
         "pName" : "Biege shawl",
-        "pImg" :"/Images/products/(19).jpg", 
+        "pImg" :"./Images/products/(19).jpg", 
         "pPrice" : 45 ,
         "pCategory" : "Jackets" 
     
@@ -136,56 +136,56 @@
 
     {
         "pName" : "Red oversized tshirt",
-        "pImg" :"/Images/products/(20).jpg", 
+        "pImg" :"./Images/products/(20).jpg", 
         "pPrice" : 45 ,
         "pCategory" : "tshirts" 
     
     },
     {
         "pName" : "White long shirt",
-        "pImg" :"/Images/products/(21).jpg", 
+        "pImg" :"./Images/products/(21).jpg", 
         "pPrice" : 45 ,
         "pCategory" : "shirts" 
     
     },
     {
         "pName" : "Blazer set",
-        "pImg" :"/Images/products/(22).jpg", 
+        "pImg" :"./Images/products/(22).jpg", 
         "pPrice" : 40 ,
         "pCategory" : "jackets" 
     
     },
     {
         "pName" : "Grey blazer ",
-        "pImg" :"/Images/products/(23).jpg", 
+        "pImg" :"./Images/products/(23).jpg", 
         "pPrice" : 35 ,
         "pCategory" : "jackets" 
     
     },
     {
         "pName" : "White sweater ",
-        "pImg" :"/Images/products/(24).jpg", 
+        "pImg" :"./Images/products/(24).jpg", 
         "pPrice" : 35 ,
         "pCategory" : "shirts" 
     
     },
     {
         "pName" : "Hoodie set ",
-        "pImg" :"/Images/products/(25).jpg", 
+        "pImg" :"./Images/products/(25).jpg", 
         "pPrice" : 65 ,
         "pCategory" : "jackets" 
     
     },
     {
         "pName" : "White oversized tshirt ",
-        "pImg" :"/Images/products/(26).jpg", 
+        "pImg" :"./Images/products/(26).jpg", 
         "pPrice" : 35 ,
         "pCategory" : "tshirts" 
     
     },
     {
         "pName" : "Black oversized tshirt ",
-        "pImg" :"/Images/products/(27).jpg", 
+        "pImg" :"./Images/products/(27).jpg", 
         "pPrice" : 35 ,
         "pCategory" : "tshirts" 
     
@@ -196,119 +196,119 @@
 "women":[
     {
         "pName" : "Basic white tshirt",
-        "pImg" :"/Images/products/(1).jpg", 
+        "pImg" :"./Images/products/(1).jpg", 
         "pPrice" : 20 ,
         "pCategory" : "tshirts" 
      
     },
     {
         "pName" : " White Shirt",
-        "pImg" :"/Images/products/(2).jpg", 
+        "pImg" :"./Images/products/(2).jpg", 
         "pPrice" : 15 ,
         "pCategory" : "shirts" 
      
     } ,
     {
         "pName" : "Brown Long Coat",
-        "pImg" :"/Images/products/(4).jpg", 
+        "pImg" :"./Images/products/(4).jpg", 
         "pPrice" : 45 ,
         "pCategory" : "Jackets" 
      
     },
     {
         "pName" : "Grey Denim Shirt",
-        "pImg" :"/Images/products/(5).jpg", 
+        "pImg" :"./Images/products/(5).jpg", 
         "pPrice" : 35 ,
         "pCategory" : "shirts" 
      
     } ,
     {
         "pName" : "Dark brown Blazer",
-        "pImg" :"/Images/products/(7).jpg", 
+        "pImg" :"./Images/products/(7).jpg", 
         "pPrice" : 30 ,
         "pCategory" : "Jackets" 
      
     },
     {
         "pName" : "Cactus Tshirt",
-        "pImg" :"/Images/products/(8).jpg", 
+        "pImg" :"./Images/products/(8).jpg", 
         "pPrice" : 25 ,
         "pCategory" : "tshirts" 
      
     },
     {
         "pName" : "Black basic tshirt",
-        "pImg" :"/Images/products/(9).jpg", 
+        "pImg" :"./Images/products/(9).jpg", 
         "pPrice" : 20 ,
         "pCategory" : "tshirts" 
      
     },
     {
         "pName" : "white tshirt",
-        "pImg" :"/Images/products/(12).jpg", 
+        "pImg" :"./Images/products/(12).jpg", 
         "pPrice" : 30 ,
         "pCategory" : "tshirts" 
      
     },
     {
         "pName" : "flower black tshirt",
-        "pImg" :"/Images/products/(13).jpg", 
+        "pImg" :"./Images/products/(13).jpg", 
         "pPrice" : 15 ,
         "pCategory" : "tshirts" 
      
     },
     {
         "pName" : "white training set",
-        "pImg" :"/Images/products/(16).jpg", 
+        "pImg" :"./Images/products/(16).jpg", 
         "pPrice" : 55 ,
         "pCategory" : "Jackets" 
     
     },
     {
         "pName" : "Biege shawl",
-        "pImg" :"/Images/products/(19).jpg", 
+        "pImg" :"./Images/products/(19).jpg", 
         "pPrice" : 45 ,
         "pCategory" : "Jackets" 
     
     },
     {
         "pName" : "Red oversized tshirt",
-        "pImg" :"/Images/products/(20).jpg", 
+        "pImg" :"./Images/products/(20).jpg", 
         "pPrice" : 45 ,
         "pCategory" : "tshirts" 
     
     },
     {
         "pName" : "White long shirt",
-        "pImg" :"/Images/products/(21).jpg", 
+        "pImg" :"./Images/products/(21).jpg", 
         "pPrice" : 45 ,
         "pCategory" : "shirts" 
     
     },
     {
         "pName" : "Blazer set",
-        "pImg" :"/Images/products/(22).jpg", 
+        "pImg" :"./Images/products/(22).jpg", 
         "pPrice" : 40 ,
         "pCategory" : "jackets" 
     
     },
     {
         "pName" : "Grey blazer ",
-        "pImg" :"/Images/products/(23).jpg", 
+        "pImg" :"./Images/products/(23).jpg", 
         "pPrice" : 35 ,
         "pCategory" : "jackets" 
     
     },
     {
         "pName" : "White sweater ",
-        "pImg" :"/Images/products/(24).jpg", 
+        "pImg" :"./Images/products/(24).jpg", 
         "pPrice" : 35 ,
         "pCategory" : "shirts" 
     
     },
     {
         "pName" : "Hoodie set ",
-        "pImg" :"/Images/products/(25).jpg", 
+        "pImg" :"./Images/products/(25).jpg", 
         "pPrice" : 65 ,
         "pCategory" : "jackets" 
     
@@ -319,63 +319,63 @@
 "men":[
     {
         "pName" : "Blue Shirt",
-        "pImg" :"/Images/products/(3).jpg", 
+        "pImg" :"./Images/products/(3).jpg", 
         "pPrice" : 25 ,
         "pCategory" : "shirts" 
      
     },
     {
         "pName" : "Black Watch",
-        "pImg" :"/Images/products/(6).jpg", 
+        "pImg" :"./Images/products/(6).jpg", 
         "pPrice" : 30 ,
         "pCategory" : "Accsessories" 
      
     },
     {
         "pName" : "Light Blue Shirt",
-        "pImg" :"/Images/products/(10).jpg", 
+        "pImg" :"./Images/products/(10).jpg", 
         "pPrice" : 35 ,
         "pCategory" : "shirts" 
      
     },
     {
         "pName" : "Brown Belt",
-        "pImg" :"/Images/products/(11).jpg", 
+        "pImg" :"./Images/products/(11).jpg", 
         "pPrice" : 20 ,
         "pCategory" : "Accsessories" 
      
     },
     {
         "pName" : "Black Watch",
-        "pImg" :"/Images/products/(14).jpg", 
+        "pImg" :"./Images/products/(14).jpg", 
         "pPrice" : 15 ,
         "pCategory" : "Accsessories" 
      
     },
     {
         "pName" : "Red tshirt",
-        "pImg" :"/Images/products/(17).jpg", 
+        "pImg" :"./Images/products/(17).jpg", 
         "pPrice" : 25 ,
         "pCategory" : "tshirts" 
      
     },
     {
         "pName" : "Red Pulllover",
-        "pImg" :"/Images/products/(18).jpg", 
+        "pImg" :"./Images/products/(18).jpg", 
         "pPrice" : 45 ,
         "pCategory" : "Jackets" 
     
     },
     {
         "pName" : "White oversized tshirt ",
-        "pImg" :"/Images/products/(26).jpg", 
+        "pImg" :"./Images/products/(26).jpg", 
         "pPrice" : 35 ,
         "pCategory" : "tshirts" 
     
     },
     {
         "pName" : "Black oversized tshirt ",
-        "pImg" :"/Images/products/(27).jpg", 
+        "pImg" :"./Images/products/(27).jpg", 
         "pPrice" : 35 ,
         "pCategory" : "tshirts" 
     
